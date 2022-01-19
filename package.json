@@ -1,6 +1,6 @@
 {
-  "name": "@wangming98160/package-3.1.0",
-  "version": "3.1.0",
+  "name": "@wangming98160/package-4.1.0",
+  "version": "4.1.0",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
   "main": "index.js",
   "scripts": {
